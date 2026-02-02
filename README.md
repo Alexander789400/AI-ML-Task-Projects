@@ -21,7 +21,7 @@ This project uses the classic Iris dataset to build and evaluate machine learnin
 - Default hyperparameters are sufficient for this dataset  
 
 # Task - 2
-## Spam Mail Detector 📧
+## Spam Mail Detector 
 
 Detect spam emails using **Machine Learning** and **Natural Language Processing (NLP)**.
 
