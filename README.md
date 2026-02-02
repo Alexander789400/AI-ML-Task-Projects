@@ -25,6 +25,8 @@ This project uses the classic Iris dataset to build and evaluate machine learnin
 
 Detect spam emails using **Machine Learning** and **Natural Language Processing (NLP)**.
 
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/marcelwiechmann/enron-spam-data)
+
 ### Overview
 This project builds a classifier to distinguish between **spam** and **ham** (non-spam) emails using the **Enron Email Dataset**. The workflow includes:  
 
